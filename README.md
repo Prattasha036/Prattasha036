@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akil Aktab Prattasha.But you will find me everywhere with the handle name Akil. I'm a self-taught Web Developer.</h1>
 <h3 align="center">Web Developer..Having some expertise in Front End Development. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL and so on.</h3>
 
-- 🌱 I’m currently learning **Next JS and Node Js**
+- 🌱 I’m currently learning **Next JS and Node Js and mysql**
 
 - 💬 Ask me about **react and next js**
 
